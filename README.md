@@ -121,6 +121,6 @@ Site feito para a empresa BioGroup. Site completo, responsivo e sempre prezando 
 <h6>Para visualizar o site acesse: <bold>www.biogroupp.com.br</bold>
 
 <br>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <strong>Toda atualização do site será notificada por aqui!!</strong>
